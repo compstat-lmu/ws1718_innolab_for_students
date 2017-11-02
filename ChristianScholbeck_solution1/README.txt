@@ -1,1 +1,0 @@
-This folder contains Christian Scholbeck’s solutions to the exercises.
